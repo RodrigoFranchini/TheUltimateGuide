@@ -17,3 +17,27 @@ Skills developed in this module:
 PS: I also used AI to add some final styling in two views—check the prompts in [Prompts](./prompts/). The main content, though, was coded like it was in the Stone Age.
 
 PS2: Some modifiers were also suggested by AI to give the views a more modern look.
+
+## 🚀 How to Run
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/RodrigoFranchini/TheUltimateGuide.git
+   ```
+
+2. Open the project in Xcode:
+
+   * Open `TheUltimateGuide.xcodeproj`
+
+3. Select a simulator (e.g., iPhone 15)
+
+4. Press **Run (⌘ + R)**
+
+---
+
+## 📱 Requirements
+
+* macOS
+* Xcode (latest version recommended)
+
