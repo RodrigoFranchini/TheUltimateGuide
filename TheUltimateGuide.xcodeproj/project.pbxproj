@@ -16,6 +16,11 @@
 			path = TheUltimateGuide;
 			sourceTree = "<group>";
 		};
+		34A1F78C2F770020001747F0 /* prompts */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = prompts;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -34,6 +39,7 @@
 			children = (
 				34386CF12F74A5B8006DC61B /* TheUltimateGuide */,
 				34386CF02F74A5B8006DC61B /* Products */,
+				34A1F78C2F770020001747F0 /* prompts */,
 			);
 			sourceTree = "<group>";
 		};
@@ -62,6 +68,7 @@
 			);
 			fileSystemSynchronizedGroups = (
 				34386CF12F74A5B8006DC61B /* TheUltimateGuide */,
+				34A1F78C2F770020001747F0 /* prompts */,
 			);
 			name = TheUltimateGuide;
 			packageProductDependencies = (
